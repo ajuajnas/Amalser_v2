@@ -5,7 +5,7 @@
 <a href="#"><img title="Chinju-Mwol" src="https://img.shields.io/badge/Amalser_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ajuajnas"><img title="Author" src="https://img.shields.io/badge/Author-ajuajnas/Chinju-Mwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
