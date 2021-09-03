@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/ajuajnas">Chinju-Mwol</a> to make
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/ajuajnas/Chinju-Mwol
+$ git clone https://github.com/ajuajnas/Amalser_v2
 $ cd Chinju-Mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -39,7 +39,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/ajuajnas/Chinju-Mwol
+$ git clone https://github.com/ajuajnas/Amalser_v2
 $ cd Chinju-Mwol
 $ npm i
 $ node julie.js
