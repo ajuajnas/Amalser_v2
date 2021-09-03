@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg"/>
   <p align="center">
-<a href="#"><img title="Chinju-Mwol" src="https://img.shields.io/badge/Amalser_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Chinju-Mwol" src="https://img.shields.io/badge/Chinju-Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/ajuajnas"><img title="Author" src="https://img.shields.io/badge/Author-ajuajnas/Chinju-Mwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/ajuajnas">Chinju-Mwol</a> to make
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajuajnas/Amalser_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajuajnas/Chinju-Mwol) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
